@@ -1,0 +1,357 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Crônicas da Casa Vaelthorne: Os Senhores do Silêncio</title>
+  <style>
+    @page {
+      size: A4;
+      margin: 18mm 16mm 18mm 16mm;
+      @bottom-right {
+        content: counter(page);
+        font-size: 9pt;
+        color: #64748b;
+      }
+    }
+    
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: 'Georgia', 'Palatino', 'Times New Roman', serif;
+      line-height: 1.55;
+      color: #1e293b;
+      background-color: #ffffff;
+      margin: 0;
+      padding: 0;
+      font-size: 11pt;
+    }
+
+    h1, h2, h3, h4 {
+      font-family: 'Segoe UI', 'Helvetica Neue', 'Arial', sans-serif;
+      font-weight: 700;
+      color: #0f172a;
+      letter-spacing: -0.02em;
+    }
+
+    /* Cover / Header Section */
+    .header-banner {
+      border-bottom: 3px double #0f172a;
+      padding-bottom: 15px;
+      margin-bottom: 25px;
+      text-align: center;
+    }
+
+    .header-banner .badge {
+      display: inline-block;
+      text-transform: uppercase;
+      font-family: 'Segoe UI', sans-serif;
+      font-size: 8.5pt;
+      font-weight: 700;
+      letter-spacing: 0.15em;
+      color: #475569;
+      background: #f1f5f9;
+      padding: 4px 14px;
+      border-radius: 4px;
+      margin-bottom: 10px;
+      border: 1px solid #cbd5e1;
+    }
+
+    .header-banner h1 {
+      font-size: 24pt;
+      margin: 5px 0 8px 0;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: #090d16;
+    }
+
+    .header-banner .subtitle {
+      font-style: italic;
+      font-size: 12pt;
+      color: #475569;
+      margin: 0;
+    }
+
+    .quote-box {
+      background-color: #f8fafc;
+      border-left: 4px solid #334155;
+      padding: 12px 18px;
+      margin: 18px 0;
+      font-style: italic;
+      color: #334155;
+      font-size: 10.5pt;
+      border-radius: 0 4px 4px 0;
+    }
+
+    .quote-box .author {
+      display: block;
+      margin-top: 6px;
+      font-weight: bold;
+      font-style: normal;
+      font-size: 9.5pt;
+      color: #1e293b;
+      text-align: right;
+    }
+
+    h2 {
+      font-size: 15pt;
+      border-bottom: 1.5px solid #e2e8f0;
+      padding-bottom: 5px;
+      margin-top: 26px;
+      margin-bottom: 12px;
+      color: #0f172a;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+    }
+
+    h3 {
+      font-size: 12.5pt;
+      margin-top: 18px;
+      margin-bottom: 8px;
+      color: #1e293b;
+    }
+
+    p {
+      margin-top: 0;
+      margin-bottom: 10px;
+      text-align: justify;
+    }
+
+    /* Pillars Cards */
+    .pillar-card {
+      background: #ffffff;
+      border: 1.5px solid #cbd5e1;
+      border-radius: 6px;
+      padding: 14px 18px;
+      margin-bottom: 16px;
+      break-inside: avoid;
+    }
+
+    .pillar-card.highlight-1 { border-left: 6px solid #2563eb; } /* Ascensão */
+    .pillar-card.highlight-2 { border-left: 6px solid #d97706; } /* Fama */
+    .pillar-card.highlight-3 { border-left: 6px solid #dc2626; } /* Excentricidade */
+    .pillar-card.highlight-4 { border-left: 6px solid #475569; } /* Segredos */
+
+    .pillar-title {
+      font-family: 'Segoe UI', sans-serif;
+      font-size: 12.5pt;
+      font-weight: 700;
+      margin-top: 0;
+      margin-bottom: 8px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .pillar-card.highlight-1 .pillar-title { color: #1e40af; }
+    .pillar-card.highlight-2 .pillar-title { color: #b45309; }
+    .pillar-card.highlight-3 .pillar-title { color: #991b1b; }
+    .pillar-card.highlight-4 .pillar-title { color: #1e293b; }
+
+    ul {
+      margin: 6px 0 10px 20px;
+      padding: 0;
+    }
+
+    li {
+      margin-bottom: 5px;
+    }
+
+    /* Genealogy Table */
+    table.lineage-table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 16px 0;
+      font-size: 10pt;
+      break-inside: avoid;
+    }
+
+    table.lineage-table th, table.lineage-table td {
+      border: 1px solid #cbd5e1;
+      padding: 8px 12px;
+      text-align: left;
+    }
+
+    table.lineage-table th {
+      background-color: #f1f5f9;
+      font-family: 'Segoe UI', sans-serif;
+      color: #0f172a;
+      font-weight: 700;
+    }
+
+    table.lineage-table tr:nth-child(even) {
+      background-color: #f8fafc;
+    }
+
+    .page-break {
+      page-break-before: always;
+    }
+
+    .tag {
+      font-family: 'Segoe UI', sans-serif;
+      font-size: 8.5pt;
+      font-weight: 600;
+      background-color: #e2e8f0;
+      color: #334155;
+      padding: 2px 7px;
+      border-radius: 3px;
+      display: inline-block;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- CABEÇALHO PRINCIPAL -->
+  <div class="header-banner">
+    <div class="badge">Compêndio Canônico & Registro Histórico</div>
+    <h1>A Casa Vaelthorne</h1>
+    <div class="subtitle">Os Senhores do Silêncio • Mestres da Runomancia de Interdição</div>
+  </div>
+
+  <div class="quote-box">
+    "A magia não é um dom sagrado; é uma costura frágil na realidade. O arcanista comum passa a vida aprendendo a tecer nós mais vistosos; os Vaelthorne aprendem simplesmente onde aplicar o aço para desfazê-los."
+    <span class="author">— Azur Vaelthorne, Atual Patriarca</span>
+  </div>
+
+  <!-- INTRODUÇÃO GERAL -->
+  <h2>Visão Geral da Família</h2>
+  <p>
+    A <strong>Casa Vaelthorne</strong> é uma das dinastias mais singulares e temidas da sociedade bruxa. Diferente das linhagens tradicionais que disputam poder por meio de feitiçaria destrutiva ou academias pomposas, os Vaelthorne especializaram-se em uma doutrina única: a <strong>Runomancia de Interdição</strong> — a arte de neutralizar, conter e calar a magia de terceiros através de geometrias rúnicas ancoradas no próprio sangue.
+  </p>
+  <p>
+    Eles não são rebeldes primitivos desprovidos de varinhas, mas <strong>eruditos aristocratas</strong> que empunham instrumentos refinados de <em>Espinheiro-de-Ferro Glacial</em> e carregam na pele as marcas permanentes de seu ofício.
+  </p>
+
+  <!-- PARTE 1: ORIGEM HISTÓRICA -->
+  <h2>1. A Origem Nórdica & O Despertar da Relíquia</h2>
+  <p>
+    As raízes da família remontam a mais de mil anos nas terras gélidas da Noruega antiga, sob o nome ancestral de <strong>Clã Fjellthorn</strong> (<em>O Espinheiro da Montanha</em>). Eram líderes e forjadores de ferro frio que habitavam fiordes inóspitos, caracterizados por uma aversão visceral a encantamentos enganosos.
+  </p>
+  
+  <h3>A Descoberta da Pedra Primordial</h3>
+  <p>
+    Durante o rigoroso <em>Inverno do Silêncio</em>, uma avalanche nas cordilheiras de <strong>Jotunheimen</strong> expôs uma câmara subterrânea inviolada. O jarl <strong>Torstein Fjellthorn</strong> liderou uma expedição de resgate e encontrou a <strong>Pedra Primordial</strong>: um monólito de minério negro recoberto por inscrições rúnicas milenares, rodeado por restos de antigos conjuradores que pereceram ao tentar forçá-la.
+  </p>
+  <p>
+    Durante a descida da montanha, uma ponte de gelo ruiu. Torstein segurou as correntes com as próprias mãos para impedir a queda da relíquia; o sangue do patriarca banhou as runas, selando o primeiro pacto biológico: <strong>a pedra reconheceu a linhagem e passou a responder à vontade inabalável de proteção e resistência física de seus herdeiros.</strong>
+  </p>
+
+  <h3>A Noite do Cerco à Mansão</h3>
+  <p>
+    Séculos mais tarde, com a família já estabelecida sob o nome nobre de <strong>Vaelthorne</strong>, a pedra repousava como relíquia esquecida no salão principal. Numa noite sangrenta, uma seita de feiticeiros invadiu a mansão para roubar o artefato. Diante do massacre e gravemente ferido, o patriarca da época recuou até o púlpito e manchou a relíquia com seu sangue.
+  </p>
+  <p>
+    A pedra despertou: um círculo de runas luminosas expandiu-se pelo chão, instaurando uma <strong>zona absoluta de supressão mágica</strong>. Privados de seus poderes instantaneamente, os invasores foram subjugados pelos Vaelthorne, que lutaram com disciplina marcial e lâminas de aço. Desde então, a linhagem dedicou-se a decifrar a pedra e reproduzir esse poder na forma da <strong>Runomancia de Interdição</strong>.
+  </p>
+
+  <!-- PARTE 2: A LINHAGEM E TRANSIÇÃO INTELECTUAL -->
+  <h2>2. A Grande Transição: De Guerreiros a Eruditos</h2>
+  <p>
+    Durante séculos, a família utilizou as runas de forma quase tribal. Contudo, percebendo que a brutalidade pura seria vulnerável contra as refinadas cortes arcanas modernas, a linhagem passou por uma transição em quatro gerações:
+  </p>
+
+  <table class="lineage-table">
+    <thead>
+      <tr>
+        <th style="width: 25%;">Geração / Líder</th>
+        <th style="width: 25%;">Papel Histórico</th>
+        <th style="width: 50%;">Contribuição Fundamental</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>Havel Vaelthorne</strong><br><span class="tag">Bisavô • O Reformador</span></td>
+        <td>A Virada Intelectual</td>
+        <td>Fundou o <em>Scriptorium de Cinzas</em> (biblioteca privada), mapeou as doze variações das runas primordiais e estabeleceu que todo herdeiro deve dissecar a sintaxe da magia antes de desembainhar o aço.</td>
+      </tr>
+      <tr>
+        <td><strong>Bastian Vaelthorne</strong><br><span class="tag">Avô • O Diplomata</span></td>
+        <td>Inserção Aristocrática</td>
+        <td>Inseriu os Vaelthorne nas cortes nobres e conselhos mágicos como "Juízes Mudos" — árbitros neutros temidos por ministérios e arquimagos.</td>
+      </tr>
+      <tr>
+        <td><strong>Garrick Vaelthorne</strong><br><span class="tag">Pai • O Teórico Pálido</span></td>
+        <td>Inovação Alquímica</td>
+        <td>Desenvolveu tintas infundidas com sangue para pré-gravar runas em lâminas e pergaminhos; seu isolamento em livros quase fragilizou a disciplina marcial da família.</td>
+      </tr>
+      <tr>
+        <td><strong>Azur Vaelthorne</strong><br><span class="tag">Atual Patriarca • O Vértice</span></td>
+        <td>A Síntese Perfeita</td>
+        <td>Uniu a genialidade analítica do bisavô Havel ao vigor de combate dos ancestrais. Atua como um "cirurgião arcano", cortando o fluxo do feitiço adversário antes de sua conclusão.</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <div class="page-break"></div>
+
+  <!-- PARTE 3: OS QUATRO PILARES ESSENCIAIS (DESTAQUE) -->
+  <h2>3. Os Quatro Pilares da Casa Vaelthorne</h2>
+  <p>
+    Para compreender o papel da família na sociedade bruxa contemporânea, quatro elementos fundamentais definem sua existência, reputação e poder:
+  </p>
+
+  <!-- PILAR 1: ASCENSÃO RECENTE -->
+  <div class="pillar-card highlight-1">
+    <div class="pillar-title">1. Ascensão Recente: A Encruzilhada dos 100 Anos</div>
+    <p>
+      Durante todo o século XX, o mundo mágico enfrentou uma guerra invisível contra o <strong>Núcleo Arcano</strong> fundado pelo extremista Illidan. O conflito exigia discrição absoluta perante a humanidade não-mágica (<em>"Tudo em silêncio"</em>). No entanto, batalhas com feitiços explosivos ameaçavam expor a existência bruxa diariamente.
+    </p>
+    <p>
+      <strong>O Ponto de Virada:</strong> Os Vaelthorne foram convocados pelos governos arcanos como forças de intervenção cirúrgica. Com a Runomancia de Interdição, equipes lideradas pelo jovem Azur e seu pai invadiam redutos extremistas e desativavam o fluxo mágico de células inteiras. Sem emitir som ou fagulhas, os bruxos rebeldes eram capturados desarmados. Em 2000, ao fim do conflito, os Vaelthorne foram elevados à condição de fundadores consultivos do <strong>Conclave Internacional Arcano (C.I.A.)</strong>.
+    </p>
+  </div>
+
+  <!-- PILAR 2: FAMA -->
+  <div class="pillar-card highlight-2">
+    <div class="pillar-title">2. Fama: Os Engenheiros da Ordem & Darkstone</div>
+    <p>
+      A notoriedade dos Vaelthorne não repousa em contos de fadas, mas em soluções práticas diante do colapso mágico:
+    </p>
+    <ul>
+      <li><strong>Estabilizadores das Zonas Mortas:</strong> A guerra deixou regiões conhecidas como "Zonas Arcanas Mortas", onde a magia residual tornou-se corrosiva e inabitável. Somente os monólitos de contenção rúnica dos Vaelthorne foram capazes de ancorar o éter e salvar essas terras.</li>
+      <li><strong>Arquitetos de Darkstone:</strong> A prisão de segurança máxima onde estão encarcerados os líderes remanescentes do Núcleo Arcano (e possivelmente o próprio Illidan) foi blindada e projetada pelas barreiras rúnicas de <strong>Azur Vaelthorne</strong>.</li>
+      <li><strong>Aura de Respeito Absoluto:</strong> Em bailes aristocráticos de Salem a Londres, lordes e embaixadores calam-se quando um Vaelthorne entra no salão; sua mera presença é um lembrete vívido de que nenhuma varinha é invulnerável.</li>
+    </ul>
+  </div>
+
+  <!-- PILAR 3: EXCENTRICIDADE -->
+  <div class="pillar-card highlight-3">
+    <div class="pillar-title">3. Excentricidade: A Aristocracia de Cicatrizes & O Rito da Carne</div>
+    <p>
+      Diferente de mitos sobre conjurações sem varinha, <strong>os Vaelthorne utilizam varinhas para lançar feitiços comuns e traçar as geometrias rúnicas no ar e na matéria</strong>. A sua verdadeira excentricidade, que choca a nobreza tradicional, é o seu rito biológico obrigatório:
+    </p>
+    <ul>
+      <li><strong>O Rito do Primeiro Corte (<em>Blóðstafir</em>):</strong> Aos 14 anos, diante da Pedra Primordial, os jovens herdeiros passam por uma escarificação cirúrgica. Runas fundamentais de interdição são gravadas permanentemente na pele de seus antebraços, palmas ou coluna, utilizando cinzéis aquecidos e cinzas de ferro frio.</li>
+      <li><strong>A Função Vital das Cicatrizes:</strong> A supressão mágica produz um recuo violento de energia negativa. As marcas corporais agem como condutores biológicos de aterramento: absorvem o impacto do feitiço canalizado pela varinha, impedindo que o vácuo de contenção colapse o corpo do próprio conjurador.</li>
+      <li><strong>O Choque Cultural:</strong> Sob luvas de veludo e punhos de seda nobre nos salões da alta sociedade, os Vaelthorne escondem braços cobertos de inscrições geométricas cicatrizadas — uma aliança visceral entre elegância aristocrática e dor física disciplinada.</li>
+    </ul>
+  </div>
+
+  <!-- PILAR 4: SEGREDOS -->
+  <div class="pillar-card highlight-4">
+    <div class="pillar-title">4. Segredos: As Sombras sob o Silêncio</div>
+    <p>
+      Por trás de sua reputação de protetores da sociedade bruxa, a Casa Vaelthorne oculta verdades guardadas a sete chaves:
+    </p>
+    <ul>
+      <li><strong>A Chave-Mestra de Darkstone:</strong> O C.I.A. confia cegamente nas celas rúnicas da prisão de segurança máxima. O que o conselho ignora é que Azur entalhou uma "runa oculta de ressonância" no coração da fortaleza: apenas o sangue de um patriarca Vaelthorne pode desativar as celas simultaneamente, conferindo à família o poder secreto de libertar ou purgar os piores arcanistas do mundo.</li>
+      <li><strong>A Natureza Entrópica da Relíquia:</strong> Estudos ocultos no <em>Scriptorium</em> revelaram que a Pedra Primordial não dissipa energia mágica; ela a <strong>devora</strong> permanentemente. A queda na taxa de nascimentos mágicos e o surgimento de zonas mortas pelo globo estão intimamente ligados ao despertar milenar do artefato.</li>
+      <li><strong>A Maldição do Vácuo no Sangue:</strong> A afinidade extrema com a interdição torna o sangue dos Vaelthorne imune a feitiços médicos e poções curativas comuns. Se um membro for ferido com gravidade, deve ser tratado com cirurgia física e medicina não-mágica.</li>
+    </ul>
+  </div>
+
+  <!-- PARTE 4: INSTRUMENTOS E O ESPINHEIRO-DE-FERRO -->
+  <h2>4. A Varinha Exclusiva: Espinheiro-de-Ferro Glacial (*Járn-Þorn*)</h2>
+  <p>
+    As varinhas da Casa Vaelthorne não são adquiridas em comércios convencionais. São talhadas exclusivamente a partir do <strong>Espinheiro-de-Ferro Glacial</strong>, espécie botânica colhida nas fendas de permafrost de Jotunheimen.
+  </p>
+  <ul>
+    <li><strong>Resistência Ativa ao Fluxo Mágico:</strong> O <em>Járn-Þorn</em> cresce sobre veios de ferro frio e possui consistência semi-metálica. Em vez de conduzir o feitiço com facilidade, a madeira resiste ativamente à passagem do éter. O bruxo precisa exercer vontade severa para forçar a energia através dela.</li>
+    <li><strong>O Feixe Comprimido:</strong> Como resultado dessa contenção interna, os feitiços expelidos não se espalham; saem como linhas densas, finas e cirúrgicas, ideais para fixar runas no ar com exatidão milimétrica.</li>
+    <li><strong>Indestrutibilidade:</strong> É impossível partir essa varinha através de feitiços de choque ou desarmamento, garantindo que o bruxo permaneça armado mesmo nas situações mais extremas.</li>
+    <li><strong>A Varinha do Patriarca (*Skugga*):</strong> Esculpida no cerne mineralizado de um espinheiro milenar, reforçada com virolas de ferro frio. Empunhada por Azur Vaelthorne, é o instrumento supremo da ordem atual.</li>
+  </ul>
+
+</body>
+</html>
