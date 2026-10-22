@@ -1,5 +1,5 @@
 ---
-title: Espinheiro-de-Ferro Glacial (Járn-Þorn)
+title: "Espinheiro-de-Ferro Glacial (Járn-Þorn)"
 tags:
   - varinhas
   - artefatos

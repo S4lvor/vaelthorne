@@ -1,5 +1,5 @@
 ---
-title: Linhagem dos Vaelthorne: A Transição Intelectual
+title: "Linhagem dos Vaelthorne: A Transição Intelectual"
 tags:
   - vaelthorne
   - linhagem
