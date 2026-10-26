@@ -22,7 +22,7 @@ Este arquivo reúne as crônicas, genealogia, doutrina marcial e os segredos da 
 * ❄️ **[[Origem dos Vaelthorne]]** — As raízes nórdicas em [[Jotunheimen]], o antigo Clã Fjellthorn e o batismo de sangue na [[Pedra Primordial]].
 * 📜 **[[Linhagem dos Vaelthorne]]** — A transição intelectual em quatro gerações: do bisavô Havel (*O Reformador*) até a ascensão aristocrática.
 * 🗡️ **[[Azur Vaelthorne]]** — O perfil do patriarca atual: o cirurgião arcano, sua doutrina e seus instrumentos.
-* ⚡ **[[Ascensão, Segredos e Excentricidades da Casa Vaelthorne]]** — A intervenção na *Encruzilhada dos 100 Anos*, os selos de Darkstone, o Rito da Carne (*Blóðstafir*) e os mistérios do sangue.
+* ⚡ **[[Ascensão, Segredos e Excentricidades da Casa Vaelthorne]]** — A intervenção na *Encruzilhada dos 100 Anos*, a fortificação de Darkstone, o Rito da Carne (*Blóðstafir*) e os segredos da linhagem.
 * 🌲 **[[Espinheiro-de-Ferro Glacial]]** — O estudo botânico-mineral do *Járn-Þorn*, a madeira semi-metálica exclusiva das varinhas da linhagem.
 
 ---

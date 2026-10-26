@@ -15,7 +15,7 @@ aliases:
 > [!quote] Pensamento de Havel Vaelthorne
 > *"O bárbaro sangra na pedra e reza para que a tempestade pare. O sábio entende a geometria do raio e escreve a lei que o desfaz. Não seremos mais ovelhas com espadas; seremos os arquitetos do silêncio."*
 
-Por gerações após a noite do cerco à mansão (ver **[[Vaelthorne]]** e **[[Origem dos Vaelthorne]]**), a linhagem operou como uma seita de guerreiros ferozes. Eles utilizavam a **[[Runomancia de Interdição]]** de forma intuitiva, brutal e reativa: feriam a si mesmos em fúria para calar a magia de inimigos e massacrá-los no aço.
+Por gerações após a noite do cerco à mansão (ver **[[Vaelthorne]]** e **[[Origem dos Vaelthorne]]**), a linhagem operou como uma seita de guerreiros ferozes. Eles utilizavam a **[[Runomancia de Interdição]]** de forma intuitiva, brutal e reativa: feriam a si mesmos em fúria para calar as varinhas e focos de inimigos e subjugá-los no aço.
 
 Contudo, com o advento das primeiras universidades arcanas, guildas de feitiçaria refinada e conspirações de corte, a brutalidade pura tornou-se uma fraqueza. A família precisava evoluir para não ser extinta.
 
@@ -36,7 +36,7 @@ Contudo, com o advento das primeiras universidades arcanas, guildas de feitiçar
 
 Filho de Havel, **Bastian Vaelthorne** herdou a biblioteca do pai e a levou para os círculos de poder. Em uma época em que lordes e reis temiam a influência desmedida das ordens arcanas, Bastian posicionou os Vaelthorne como uma **aristocracia necessária e neutra**.
 
-* **Os Juízes Mudos:** Ofereceu os serviços da família como árbitros e inspetores em tratados mágicos de alta periculosidade. Onde havia um Vaelthorne presente, nenhum arquimago ousava conjurar sob pena de ter seu fluxo rompido instantaneamente.
+* **Os Juízes Mudos:** Ofereceu os serviços da família como árbitros e inspetores em tratados mágicos de alta periculosidade. Onde havia um Vaelthorne presente, nenhum arquimago ousava erguer sua varinha sob pena de ter o fluxo do canalizador rompido instantaneamente.
 * **Refinamento Nobiliárquico:** Adotou os costumes, o vestuário e a oratória da alta nobreza, afastando de vez o estigma de "bárbaros nórdicos reclusos" e consolidando o prestígio social da casa.
 
 ---

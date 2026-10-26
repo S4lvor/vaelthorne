@@ -29,9 +29,9 @@ Durante o confronto, o patriarca da família acabou sendo ferido. Em uma tentati
 
 ### O Despertar da Interdição
 
-Símbolos rúnicos começaram a surgir pelo chão, formando um círculo ao redor da pedra. Os feiticeiros que estavam dentro daquela área logo perceberam que algo havia mudado. Ao tentarem utilizar seus feitiços, descobriram que não conseguiam mais conjurá-los, e por mais que insistissem, suas habilidades simplesmente não respondiam. O efeito não retirava a magia de ninguém permanentemente, mas impedia que qualquer habilidade sobrenatural fosse utilizada enquanto a pessoa estivesse sob a influência do círculo rúnico.
+Símbolos rúnicos começaram a surgir pelo chão, formando um círculo ao redor da pedra. Os feiticeiros que estavam dentro daquela área logo perceberam que algo havia mudado. Ao tentarem utilizar seus feitiços, descobriram que suas varinhas e instrumentos de canalização simplesmente não respondiam; o elo entre a vontade do bruxo e o foco mágico fora quebrado, fazendo com que qualquer tentativa de conjuração engasgue. O efeito não retirava a magia permanente da alma do indivíduo, mas impedia que qualquer feitiço fosse projetado por meio de canalizadores (como varinhas) enquanto a pessoa estivesse sob a influência do círculo rúnico.
 
-A confusão causada pela perda repentina dos poderes deu aos Vaelthorne a oportunidade de reagir. Mesmo feridos, conseguiram se defender dos invasores e sobreviver àquela noite, **lutando como guerreiros e não magos**. 
+A confusão causada pela falha repentina das varinhas inimigas deu aos Vaelthorne a oportunidade de reagir. Mesmo feridos, conseguiram se defender dos invasores e sobreviver àquela noite, **lutando como guerreiros e não magos**. 
 
 ---
 
@@ -39,7 +39,7 @@ A confusão causada pela perda repentina dos poderes deu aos Vaelthorne a oportu
 
 Depois do ocorrido, ficou evidente que a pedra guardava algo muito mais importante do que imaginavam. A família passou a investigar sua origem, buscando registros deixados pelos antigos membros da linhagem e tentando compreender o significado das inscrições. E então, através dessas pesquisas que os Vaelthorne descobriram sua ligação com a **Runomancia**, uma antiga prática que utilizava símbolos rúnicos para canalizar e manifestar magia, mas que somente obedecia ao sangue correto.
 
-Ao longo das gerações seguintes, a família se dedicou ao estudo da relíquia e ao aperfeiçoamento do conhecimento. Com o tempo, seus descendentes aprenderam a reproduzir parte de seu poder: desenvolvendo uma técnica capaz de criar áreas temporárias de supressão mágica através da conjuração de runas. Essa habilidade ficou conhecida dentro da linhagem como **[[Runomancia de Interdição]]**, tornando-se a principal especialidade dos Vaelthorne e, desde então, o conhecimento passou a ser preservado e transmitido entre os membros da família, se tornando parte da sua história e identidade.
+Ao longo das gerações seguintes, a família se dedicou ao estudo da relíquia e ao aperfeiçoamento do conhecimento. Com o tempo, seus descendentes aprenderam a reproduzir parte de seu poder: desenvolvendo uma técnica capaz de criar áreas temporárias de supressão sobre canalizadores mágicos através da conjuração de runas. Essa habilidade ficou conhecida dentro da linhagem como **[[Runomancia de Interdição]]**, tornando-se a principal especialidade dos Vaelthorne e, desde então, o conhecimento passou a ser preservado e transmitido entre os membros da família, se tornando parte da sua história e identidade.
 
 ---
 

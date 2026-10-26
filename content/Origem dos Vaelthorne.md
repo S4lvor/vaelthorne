@@ -38,7 +38,7 @@ Quando uma das galerias de mineração do clã foi engolida por uma avalanche, o
 Nas profundezas da geleira partida, o grupo não encontrou apenas gelo, mas uma câmara tumular esculpida em rocha negra anterior à memória humana: o **Túmulo do Véu Primordial**.
 
 > [!warning] A Descoberta no Santuário
-> No centro do santuário, erguia-se um monólito irregular de pedra negra-azulada recoberto por inscrições angulares que pareciam devorar a luz ao redor: a **[[Pedra Primordial]]**. Ao pé do altar, jaziam os esqueletos ressequidos de antigos conjuradores, de mãos decepadas e bastões partidos — mortos não por lâminas, mas pelo choque de terem tentado forçar sua vontade sobre a relíquia.
+> No centro do santuário, erguia-se um monólito irregular de pedra negra-azulada recoberto por inscrições angulares que pareciam refratárias a qualquer feitiço: a **[[Pedra Primordial]]**. Ao pé do altar, jaziam os esqueletos ressequidos de antigos conjuradores, de mãos decepadas e bastões partidos — mortos não por lâminas, mas pelo choque de terem tentado forçar sua vontade sobre a relíquia através de canalizadores arcanos primitivos.
 
 ---
 

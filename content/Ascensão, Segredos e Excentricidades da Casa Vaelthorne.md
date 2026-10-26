@@ -14,64 +14,61 @@ aliases:
 
 # A Casa Vaelthorne na Sociedade Bruxa Moderna
 
-> [!quote] Excerto dos Anais do Conclave Internacional Arcano (2001)
-> *"Quando o feitiço falha, quando a varinha quebra e o éter entra em colapso, não chamamos heróis nem arcanistas. Chamamos os Vaelthorne. Eles não trazem luz; trazem o fim da tempestade."*
+> [!quote] Excerto de Relatório Interno do Conclave Internacional Arcano (2002)
+> *"Onde o arcanista extremista ergue a varinha como um cetro de autoridade absoluta, os Vaelthorne demonstram a fragilidade do canalizador. Eles não precisam de alarde; basta um corte na tecitura do foco para que o feitiço morra antes de nascer."*
 
-A transição intelectual iniciada por Havel Vaelthorne (ver **[[Linhagem dos Vaelthorne]]**) preparou o terreno, mas foi durante os eventos catastróficos do século XX — documentados nas páginas do *Profeta do Dia* — que a família conquistou seu assento indiscutível no topo da pirâmide política e social bruxa.
+A transição intelectual iniciada por Havel Vaelthorne (ver **[[Linhagem dos Vaelthorne]]**) preparou o terreno, mas foi durante os eventos da *Encruzilhada dos 100 Anos* — documentados nas páginas do *Profeta do Dia* — que a família consolidou sua posição respeitada e discreta junto à alta sociedade bruxa e às organizações internacionais.
 
 ---
 
 ## 1. Ascensão Recente: A Encruzilhada dos 100 Anos (1900–2000)
 
-Durante todo o século XX, a sociedade bruxa sangrou nas sombras na chamada **A Encruzilhada dos 100 Anos**, dilacerada pelo levante fanático do **Núcleo Arcano** liderado por Illidan. O conflito exigia uma regra inegociável: **sigilo absoluto perante o mundo não-mágico**.
+Durante todo o século XX, o mundo mágico enfrentou nas sombras o avanço extremista do **Núcleo Arcano** liderado por Illidan. O conflito exigia uma premissa vital: **sigilo absoluto perante o mundo não-mágico** (*"Tudo em silêncio"*). Contudo, o combate convencional com feitiços destrutivos e explosões arcanas ameaçava continuamente romper o véu de ocultação.
 
-Contudo, os feitiços convencionais de ministérios e aurores geravam explosões catastróficas, luzes nos céus urbanos e contaminações arcanas que quase romperam o véu de ocultação:
-
-* **A Intervenção Cirúrgica dos Vaelthorne:** Convocados às pressas pelas lideranças de resistência ministerial, os Vaelthorne — sob a tutela tática do jovem **[[Azur Vaelthorne]]** e de seu pai Garrick — atuaram como a unidade de contenção definitiva.
-* **Vitórias sem Ruído:** Em vez de duelos pirotécnicos que destruíam quarteirões, equipes de contenção Vaelthorne infiltraram-se em fortalezas do Núcleo Arcano, ativando barreiras de **[[Runomancia de Interdição]]**. Sem poder conjurar uma única centelha, batalhões inteiros de supremacistas arcanos foram desarmados a frio, sem que uma única testemunha não-mágica notasse nada além de um corte de energia elétrica.
-* **O Tratado do Ano 2000 e a Fundação do C.I.A.:** Com a derrocada do Núcleo Arcano e a fundação do **Conclave Internacional Arcano (C.I.A.)**, a Casa Vaelthorne tornou-se signatária fundadora de quase todos os protocolos modernos de segurança mágica global.
+* **A Intervenção Cirúrgica dos Vaelthorne:** Convocados discretamente por lideranças ministeriais e redes de resistência, os Vaelthorne — sob a liderança tática do jovem **[[Azur Vaelthorne]]** e de seu pai Garrick — atuaram como especialistas em desescalada rápida.
+* **Vitórias sem Ruído:** Em vez de duelos pirotécnicos que arriscavam alertar testemunhas não-mágicas, as equipes de contenção Vaelthorne aplicavam a **[[Runomancia de Interdição]]** para desestabilizar os canalizadores dos combatentes do Núcleo Arcano. Ao terem suas varinhas sufocadas pelo campo rúnico, células inteiras de extremistas eram desarmadas e capturadas a frio.
+* **A Relação com o C.I.A.:** Com o encerramento do conflito no ano 2000 e o surgimento do **Conclave Internacional Arcano (C.I.A.)** para fiscalizar tratados de não-exposição e gerenciar crises arcanas globais, a Casa Vaelthorne tornou-se uma colaboradora confiável. Embora **não possuam cargos oficiais, títulos de fundação ou autoridade institucional** no Conclave, os Vaelthorne atuam fornecendo informações estratégicas e relatórios periciais sobre anomalias de contenção, sendo vistos de maneira extremamente favorável e respeitada pelos agentes internacionais da organização.
 
 ---
 
-## 2. Fama: Os Engenheiros do Silêncio e a Alta Sociedade
+## 2. Fama: O Reforço de Darkstone e a Nobreza Discreta
 
-Após a queda de Illidan, o prestígio dos Vaelthorne disparou para níveis lendários. No entanto, sua reputação é muito diferente daquela ostentada pelas famílias aristocráticas convencionais de "sangue-puro":
+A reputação dos Vaelthorne entre as grandes famílias e ministérios baseia-se na eficiência de seus métodos:
 
-* **Os Estabilizadores das Zonas Mortas:** As guerras deixaram vastas **"Zonas Arcanas Mortas"** pelo mundo — locais onde o acúmulo de feitiços tornou a magia corrosiva e descontrolada. Os Vaelthorne foram os únicos arcanistas capazes de ancorar monólitos de contenção com runas de [[Ferro Frio]], tornando essas regiões habitáveis novamente.
-* **Arquitetos de Darkstone:** A prisão de segurança máxima onde estão encarcerados os líderes remanescentes do Núcleo Arcano (e onde rumores afirmam que o próprio Illidan está retido) foi inteiramente selada com a geometria de interdição desenhada por **[[Azur Vaelthorne]]**.
-* **Status Nobiliárquico Inatacável:** Nas festas de gala e conclaves em Salem, Paris e Londres, os Vaelthorne são reverenciados e temidos em igual medida. Ninguém ousa desafiar sua presença, pois a mera aproximação de um mestre Vaelthorne faz as pontas das varinhas rivais arrepiarem e os feitiços vacilarem.
+* **A Fortificação de Darkstone (Anos 2000):** No início dos anos 2000, diante do colapso do Núcleo Arcano e dos preparativos de alta segurança para receber os prisioneiros mais perigosos do conflito — incluindo os rumores sobre o encarceramento de Illidan —, a Casa Vaelthorne foi convidada a participar da **fortificação defensiva de Darkstone**. Sob a supervisão de **[[Azur Vaelthorne]]**, a família entalhou matrizes rúnicas de interdição nas alas de segurança máxima, blindando a penitenciária contra tentativas de canalização por varinhas contrabandeadas ou focos improvisados. Essa colaboração na infraestrutura defensiva tornou-se um marco histórico para o prestígio da casa.
+* **Aura de Respeito nos Conclaves:** Nas recepções diplomáticas e salões nobres de Salem, Paris e Londres, os Vaelthorne desfrutam de um respeito sóbrio. Ministros e arquimagos reconhecem que, diante de um mestre de interdição, a vantagem convencional conferida por uma varinha pode ser neutralizada com rapidez implacável.
 
 ---
 
 ## 3. Excentricidade: A Aristocracia de Cicatrizes e o Rito da Carne
 
-Ao contrário de ordens místicas puramente desarmadas ou bárbaras, os Vaelthorne são bruxos plenos: **eles utilizam varinhas para conjurar feitiços comuns, direcionar a energia mágica e desenhar as complexas geometrias rúnicas no ar e na matéria.**
+Ao contrário de ordens que renegam instrumentos mágicos, os Vaelthorne são bruxos plenos: **eles dependem de varinhas para conjurar seus feitiços e para traçar com exatidão as geometrias rúnicas no ar e na matéria.** 
 
-O que choca a aristocracia tradicional — acostumada a preservar o corpo intocado e depender unicamente do conforto da madeira mágica — é o rito preparatório obrigatório imposto a cada jovem da família:
+A sua excentricidade marcante reside no rito físico preparatório imposto a cada jovem herdeiro da linhagem:
 
 ### O Rito do Primeiro Corte (*Blóðstafir*)
-Ao atingirem a idade para ingressar formalmente no aprendizado avançado da magia e da runomancia, os jovens herdeiros não apenas adquirem suas varinhas; eles são levados diante da **[[Pedra Primordial]]**:
-1. **A Escultura na Carne:** Runas primordiais de ancoragem e interdição são entalhadas cirurgicamente diretamente na pele dos antebraços, mãos ou costas, utilizando lâminas aquecidas e cinzas rituais de [[Ferro Frio]].
-2. **O Circuito Biológico de Contenção:** A **[[Runomancia de Interdição]]** gera um recuo etéreo violento ao sufocar a magia ao redor. Sem essas inscrições corporais, o refluxo da supressão romperia os canais vitais do próprio conjurador. As runas na pele atuam como condutores vivos que absorvem o impacto do feitiço canalizado pela **varinha**.
-3. **A Harmonia entre Varinha e Sangue:** A varinha é o cinzel e o foco preciso; o corpo gravado é a âncora que impede que o vácuo mágico devore o feiticeiro. Todas as varinhas da família são talhadas exclusivamente no mineralizado **[[Espinheiro-de-Ferro Glacial]]** (*Járn-Þorn*), uma madeira quase metálica colhida nas fendas de Jotunheimen que comprime feitiços e resiste ao refluxo da interdição.
+Ao atingirem a maturidade para o estudo rúnico avançado (por volta dos 14 anos), os herdeiros são levados diante da **[[Pedra Primordial]]**:
+1. **A Escultura na Carne:** Runas geométricas de ancoragem são entalhadas cirurgicamente diretamente na pele dos antebraços, palmas das mãos ou ao longo da coluna, utilizando cinzéis aquecidos e cinzas de [[Ferro Frio]].
+2. **O Circuito de Contenção:** A **[[Runomancia de Interdição]]**, ao asfixiar a ligação de varinhas inimigas com a trama arcana, produz um recuo energético negativo. As cicatrizes atuam como um circuito vivo de aterramento no corpo do conjurador, absorvendo esse choque de retorno canalizado pela própria **varinha**.
+3. **A Madeira de *Járn-Þorn*:** Todas as varinhas da família são talhadas exclusivamente no mineralizado **[[Espinheiro-de-Ferro Glacial]]**, a única madeira densa o bastante para resistir ao refluxo e comprimir os feitiços com precisão cirúrgica.
 
-> [!warning] Choque Cultural nos Salões
-> Nos bailes e banquetes ministeriais, os Vaelthorne vestem-se com a mais fina seda e portam varinhas aristocráticas de acabamento austero forjadas em *Járn-Þorn*. No entanto, o contraste é desconcertante: sob o punho das camisas nobres ou nas palmas enluvadas, reluzem as cicatrizes geométricas permanentes de seus ritos rúnicos. Para a alta sociedade bruxa, essa disposição de sangrar e marcar o próprio corpo para dominar um ramo da magia é vista como uma loucura fascinante e perturbadora.
+> [!warning] Contraste nos Salões
+> Em bailes nobres, os Vaelthorne vestem-se com a mais fina alfaiataria aristocrática, mas usam luvas de veludo escuro e mangas ajustadas para cobrir as cicatrizes geométricas permanentes em seus braços. Para a alta sociedade bruxa, essa disposição de marcar o próprio corpo como ferramenta biológica é vista como um traço fascinante, porém perturbador.
 
 ---
 
-## 4. Os Grandes Segredos da Casa
+## 4. Segredos: O que Repousa sob o Silêncio
 
-Por trás da fachada de heróis acadêmicos e pacificadores respeitados pelo Conclave Internacional Arcano, a Casa Vaelthorne guarda segredos que poderiam desestabilizar governos inteiros se viessem à tona:
+A família preserva com extremo rigor três segredos que protegem sua soberania e sua imagem pública:
 
-### I. A Chave-Mestra de Darkstone
-O C.I.A. acredita que a prisão de **Darkstone** é inviolável graças à tecnologia rúnica fornecida pelos Vaelthorne. O que o conselho ignora é que **Azur inseriu uma "runa oculta de ressonância" no coração da fortaleza**. Apenas o sangue de um patriarca Vaelthorne pode desativar as celas simultaneamente. Em termos práticos: a família possui a chave para libertar ou exterminar os piores criminosos do mundo bruxo a qualquer momento.
+### I. O Efeito Local da Herdade Vaelthorne (O "Val do Silêncio")
+A presença contínua da **[[Pedra Primordial]]** na propriedade familiar ao longo de séculos gerou uma alteração sutil, porém constante, na geografia mágica imediatamente ao redor da residência. Por absorver de forma lenta e perene a energia residual de feitiços de canalizadores, a pedra criou um bolsão regional onde o éter ambiente tornou-se refratário a varinhas: feitiços comuns conjurados nas terras da herdade parecem mais pesados e difíceis de sustentar. Além disso, nas pequenas comunidades situadas no vale próximo à mansão, os nascimentos de crianças com aptidão para manifestar magia por canalizadores tornaram-se notavelmente raros. A família oculta esse efeito regional com relatórios forjados, temendo que o Ministério considere a relíquia uma anomalia ambiental e tente confiscá-la.
 
-### II. A Origem Entrópica da [[Pedra Primordial]]
-Ao contrário do que a academia acredita (que a pedra é apenas um catalisador de magia), estudos secretos mantidos no *Scriptorium de Cinzas* revelaram que a relíquia **consome a magia e a devora**. A queda contínua na taxa de nascimento de crianças mágicas e o surgimento de zonas arcanas instáveis pelo mundo estão sutilmente conectados à atividade da pedra: quanto mais a interdição é usada no mundo, mais a trama mágica ao redor perde sua vitalidade.
+### II. A Delimitação Oculta da Interdição
+Enquanto a comunidade bruxa teme que a Runomancia de Interdição seja capaz de extinguir qualquer manifestação sobrenatural, os Vaelthorne guardam a sete chaves a verdadeira limitação de sua técnica: **a interdição atua especificamente sobre a magia mediada por canalizadores (como varinhas, cajados ou focos manufaturados)**. Contra magias puramente instintivas de criaturas mágicas ancestrais ou forças selvagens sem canalizador, a interdição oferece apenas contenção parcial. Manter essa restrição em sigilo é a maior garantia de dissuasão da família contra possíveis rivais.
 
-### III. A Maldição do Vácuo no Sangue
-Para canalizar o poder de silenciar outros bruxos, os Vaelthorne pagam um preço biológico severo: o sangue saturado de interdição repele feitiços curativos convencionais. Poções regenerativas perdem a eficácia em seus organismos e qualquer tratamento médico deve ser feito através de cirurgia física brutal e ervas medicinais não-mágicas.
+### III. Os Glifos de Monitoramento em Darkstone
+Embora as celas de segurança máxima de Darkstone dependam dos feitiços e trancas ministeriais oficiais (sendo invioláveis por meios comuns e abrindo apenas por acesso de autoridades ou por *Alohomora* no nível máximo), os Vaelthorne integraram secretamente pequenos glifos passivos de monitoramento durante as obras de fortificação nos anos 2000. Essa assinatura rúnica não interfere na operação da prisão nem abre celas, mas funciona como um "sensor": se houver alguma sobrecarga mágica incomum ou tentativa de ruptura do isolamento rúnico na fortaleza, a linhagem em sua mansão recebe uma ressonância sutil muito antes de qualquer boletim público oficial.
 
 ---
 

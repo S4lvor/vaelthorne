@@ -14,7 +14,7 @@ aliases:
 # Azur Vaelthorne, Senhor do Silêncio
 
 > [!quote] Doutrina de Azur
-> *"A magia não é um dom divino; é uma falha na tessitura do mundo. Um mago acredita ser um deus porque nunca encontrou alguém que pudesse simplesmente puxar o fio que sustenta seu feitiço."*
+> *"A magia não é um dom divino; é uma força canalizada através de instrumentos frágeis. Um bruxo acredita ser invulnerável porque nunca enfrentou alguém que pudesse simplesmente cortar o fluxo de sua própria varinha."*
 
 **Azur Vaelthorne** é o atual patriarca e líder supremo da Casa **[[Vaelthorne]]**. Representando a quarta geração desde a grande reforma iniciada por seu bisavô Havel (ver **[[Linhagem dos Vaelthorne]]**), Azur personifica o auge da dinastia: um homem que combina a erudição analítica das academias mais exigentes com a ferocidade resoluta dos guerreiros nórdicos que originaram sua estirpe.
 
@@ -24,7 +24,7 @@ aliases:
 
 * **Fisionomia:** Homem de traços angulares e severos, típico dos fiordes de [[Jotunheimen]], com cabelos escuros salpicados de fios prateados e olhos cinzento-aço que parecem dissecar tudo o que fitam.
 * **Vestimentas:** Rejeita as armaduras pesadas e volumosas dos tempos antigos em favor de túnicas aristocráticas de corte impecável em tons de azul-meia-noite e carvão, reforçadas internamente com malha flexível de **[[Ferro Frio]]**.
-* **As Marcas Ocultas:** Sob suas luvas de couro nobre, as palmas de suas mãos e antebraços trazem finas cicatrizes geométricas — marcas cirúrgicas feitas intencionalmente para canalizar seu próprio sangue de maneira instantânea e controlada nas runas durante embates.
+* **As Marcas Ocultas:** Sob suas luvas de couro nobre, as palmas de suas mãos e antebraços trazem finas cicatrizes geométricas — marcas cirúrgicas feitas intencionalmente para canalizar seu próprio sangue de maneira instantânea e controlada nas runas durante embates, absorvendo o choque de retorno da interdição.
 
 ---
 
@@ -33,8 +33,8 @@ aliases:
 Diferente de seus ancestrais guerreiros que golpeavam às cegas contando apenas com a anulação bruta, e de seu pai Garrick que se perdia na teoria, Azur opera como um **cirurgião de combate**:
 
 1. **Leitura Antecipada:** Por dominar a teoria de quase todas as escolas de feitiçaria, Azur identifica um feitiço nos primeiros milissegundos — pelo movimento labial, dilatação das pupilas do arcanista ou a perturbação do éter no ar.
-2. **Supressão Cirúrgica:** Ele não precisa necessariamente criar círculos de interdição titânicos; muitas vezes ativa runas microscópicas em suas lâminas ou anéis que neutralizam apenas o ponto de ancoragem do feitiço adversário, fazendo com que a energia mágica rebente contra o próprio conjurador (*efeito ricochete*).
-3. **Execução Precisa:** Uma vez calada a voz mística do inimigo, Azur encerra o combate com a frieza de um duelista de lâmina curta.
+2. **Supressão Cirúrgica do Canalizador:** Ele não precisa necessariamente criar círculos de interdição titânicos; muitas vezes ativa runas microscópicas em suas lâminas ou anéis que rompem a ressonância do canalizador adversário (a varinha). A tentativa de conjuração engasga instantaneamente ou a energia mágica rebenta na própria ponta da varinha do inimigo (*efeito ricochete*).
+3. **Execução Precisa:** Uma vez neutralizado o canalizador do adversário, Azur encerra o confronto com a frieza de um duelista experiente.
 
 ---
 
@@ -48,9 +48,9 @@ Diferente de seus ancestrais guerreiros que golpeavam às cegas contando apenas 
 
 ## 4. O Momento Atual da Casa sob seu Comando
 
-Sob a liderança de Azur, a Mansão Vaelthorne tornou-se um enclave de prestígio e apreensão para as cortes vizinhas. Ele recebe emissários de reis, lordes e até reitores de colégios mágicos que buscam os Vaelthorne como conselheiros neutros ou investigadores de anomalias perigosas.
+Sob a liderança de Azur, a Mansão Vaelthorne consolidou-se como um enclave de prestígio discreto e respeito sóbrio. Ele mantém interlocução com agentes do Conclave Internacional Arcano e ministérios que buscam os Vaelthorne para consultas periciais e investigações sigilosas de segurança mágica.
 
-Contudo, nos bastidores, Azur sabe que velhos inimigos da família — os herdeiros dos feiticeiros que tentaram pilhar a relíquia no passado — estão se reorganizando nas sombras, forçando-o a preparar a nova geração da família para uma guerra que não será travada apenas com espadas, nem apenas com livros, mas com a fusão implacável de ambos.
+Contudo, nos bastidores, Azur preserva vigilância contínua sobre a segurança de sua linhagem e a proteção da [[Pedra Primordial]], ciente de que as sombras deixadas pela *Encruzilhada dos 100 Anos* ainda exigem a união implacável do livro, da varinha e do aço.
 
 ---
 
